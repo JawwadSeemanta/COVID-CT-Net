@@ -1,4 +1,4 @@
-# CU-COVID-CT
+# Combined Dataset for COVID-CT-Net
 This is a dataset of chest CT scan images created for the paper "**A Fast and Reliable Approach for COVID-19 Detection from CT-Scan Images**"
 The dataset is created by combining the COVID and Non-COVID sample images from Soares et al. and Maftouni et al.
 
