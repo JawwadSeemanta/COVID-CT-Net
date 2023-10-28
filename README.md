@@ -1,7 +1,7 @@
 # Combined Dataset for COVID-CT-Net
 This is a dataset of chest CT scan images created for the paper "**A Fast and Reliable Approach for COVID-19 Detection from CT-Scan Images**"
 The dataset is created by combining the COVID and Non-COVID sample images from Soares et al. and Maftouni et al. The dataset contains a total of 8820 COVID-19 samples and
-8119 non-COVID samples.
+8119 Non-COVID samples.
 
 # Datasets Used
 - Soares, E., Angelov, P., Biaso, S., Froes, M.H., Abe, D.K.: SARS-CoV-2 CT-scan dataset: A large dataset of real patients CT scans for SARS-CoV-2 identification. medRxiv (2020).
