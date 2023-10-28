@@ -1,5 +1,5 @@
 # CU-COVID-CT
-This is a dataset of chest CT scan images created for the paper "**COVID-CT-Net: A MobileNetV1 Based Approach to Detect COVID-19 using Chest CT Scan Images**"
+This is a dataset of chest CT scan images created for the paper "**A Fast and Reliable Approach for COVID-19 Detection from CT-Scan Images**"
 The dataset is created by combining the COVID and Non-COVID sample images from Soares et al. and Maftouni et al.
 
 # Datasets Used
